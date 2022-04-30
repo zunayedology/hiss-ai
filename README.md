@@ -1,1 +1,1 @@
-# snake-game-ai
+# Snake Game AI
