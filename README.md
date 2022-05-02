@@ -11,4 +11,4 @@ Else, you can manually create an environment in that directory using `conda` or 
 4. `matplotlib`
 5. `seaborn`
 
-Run the code and the game should automatically start and train itself.
+Run the `Agent.py` and the game should automatically start and train itself.
