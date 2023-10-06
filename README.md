@@ -1,4 +1,4 @@
-# Snake Game AI
+# Hiss AI
 
 It's an AI-powered game that plays and trains itself. The more it plays, the more accurate it becomes.
 
